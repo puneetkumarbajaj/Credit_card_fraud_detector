@@ -1,2 +1,3 @@
 # Fundamentals of Data Science Final Project Submission
-Algorithm that tracks credit card data and calculates the possibility of a transaction being fraudulent
+## Credit Card Fraud Detection
+This repository presents a comprehensive machine-learning solution for detecting credit card fraud. The project uses a variety of algorithms, including Isolation Forest, RandomForest, AdaBoost, XGBoost, and Logistic Regression, to analyze and predict fraudulent transactions in credit card data. It features detailed preprocessing, model training, and evaluation using metrics like AUC, confusion matrix, accuracy, recall, precision, and F1 score. This work provides valuable insights into handling imbalanced datasets typical in financial transaction data, showcasing an effective approach to fraud detection.
